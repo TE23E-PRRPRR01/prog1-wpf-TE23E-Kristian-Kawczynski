@@ -1,0 +1,30 @@
+﻿<Window x:Class="SlumpaApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SlumpaApp"
+        mc:Ignorable="d"
+        Title="SlumpaApp" Height="350" Width="300" Background="#888c8d">
+    
+    <StackPanel Margin="10">
+    <Label HorizontalAlignment="center" FontSize="14" FontWeight="Bold">
+    <Underline>
+    Slumpa Fram ett tal
+    </Underline>
+    </Label>
+
+    <Label FontWeight="Bold">
+    <Underline>
+        Ange ett grändsvärde:
+    </Underline>
+    </Label>
+    <TextBox Name="gränsvärde" Width="150" HorizontalAlignment="Left" Margin="0 0 0 10"></TextBox>
+
+    <Button Click="slumpafunktion" FontSize="14">Slumpa!</Button>
+    <TextBox Name="Resultat" FontSize="24" Height="75" Width="150" Margin="0 10 0 10" TextAlignment="center" VerticalContentAlignment="center"></TextBox>
+
+    <TextBox Name="Slut"></TextBox>
+
+    </StackPanel>
+</Window>

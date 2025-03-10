@@ -1,0 +1,32 @@
+﻿<Window x:Class="branboll.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:branboll"
+        mc:Ignorable="d"
+        Title="Brännbolls App" 
+        Height="450" Width="800" SizeToContent="WidthAndHeight">
+    <Grid>
+    <StackPanel>
+    <Label FontSize="30">Bränbolls Räknaren</Label>
+
+        <StackPanel Orientation="horizontal">
+             <Label>Lag inne</Label>
+             <TextBox Name="txbInne" Width="100"></TextBox>
+             <Label>Lag ute</Label>
+             <TextBox Name="txbUte" Width="100"></TextBox>
+        </StackPanel>
+
+        <StackPanel Orientation="horizontal">
+        <Button Click="KlickFriVarv" Margin="10" Padding="5" Width="100">Frivarv</Button>
+        <Button Click="KlickBränning" Margin="10" Padding="5" Width="100">Bränning</Button>
+        <Button Click="KlickLyra" Margin="10" Padding="5" Width="100">Lyra</Button>
+        <Button Click="KlickVarv" Margin="10" Padding="5" Width="100">Varv</Button>
+        </StackPanel>
+    <Label>Historik</Label>
+    <TextBox Name="txbHistorik" IsReadOnly="True" Height="200" Width="450"></TextBox>
+    </StackPanel>
+
+    </Grid>
+</Window>

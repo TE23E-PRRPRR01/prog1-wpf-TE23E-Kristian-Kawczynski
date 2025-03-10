@@ -1,0 +1,6 @@
+13:38:55 Document switched to: c:\Users\kristian.kawczynski\github-classroom\prog1-wpf-TE23E-Kristian-Kawczynski\Intro\SlumpaApp\MainWindow.xaml.cs
+----------------------------------------
+25-03-10 13:38 Session started
+----------------------------------------
+13:38:59 Document switched to: c:\Users\kristian.kawczynski\github-classroom\prog1-wpf-TE23E-Kristian-Kawczynski\Intro\SlumpaApp\MainWindow.xaml.cs
+----------------------------------------
