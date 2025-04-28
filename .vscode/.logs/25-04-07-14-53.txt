@@ -1,0 +1,4 @@
+14:53:28 Document switched to: c:\Users\kristian.kawczynski\github-classroom\prog1-wpf-TE23E-Kristian-Kawczynski\Intro\Portoapp\MainWindow.xaml.cs
+----------------------------------------
+25-04-07 14:53 Session started
+----------------------------------------

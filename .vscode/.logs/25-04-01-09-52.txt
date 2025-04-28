@@ -1,0 +1,4 @@
+09:52:11 Document switched to: c:\Users\kristian.kawczynski\github-classroom\prog1-wpf-TE23E-Kristian-Kawczynski\Intro\Chatai\MainWindow.xaml.cs
+----------------------------------------
+25-04-01 09:52 Session started
+----------------------------------------

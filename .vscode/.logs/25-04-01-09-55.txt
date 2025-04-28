@@ -1,0 +1,35 @@
+25-04-01 09:55 Session started
+----------------------------------------
+09:55:48 Document switched to: c:\Users\kristian.kawczynski\github-classroom\prog1-wpf-TE23E-Kristian-Kawczynski\Intro\Areaapp\MainWindow.xaml
+----------------------------------------
+09:55:59 Document switched to: c:\Users\kristian.kawczynski\github-classroom\prog1-wpf-TE23E-Kristian-Kawczynski\Intro\Portoapp\AssemblyInfo.cs
+----------------------------------------
+09:56:00 Document switched to: c:\Users\kristian.kawczynski\github-classroom\prog1-wpf-TE23E-Kristian-Kawczynski\Intro\Portoapp\MainWindow.xaml
+----------------------------------------
+09:56:02 Document switched to: c:\Users\kristian.kawczynski\github-classroom\prog1-wpf-TE23E-Kristian-Kawczynski\Intro\Portoapp\MainWindow.xaml.cs
+----------------------------------------
+09:56:15 Document switched to: c:\Users\kristian.kawczynski\github-classroom\prog1-wpf-TE23E-Kristian-Kawczynski\Intro\SlumpaApp\MainWindow.xaml.cs
+----------------------------------------
+09:57:15 Document switched to: c:\Users\kristian.kawczynski\github-classroom\prog1-wpf-TE23E-Kristian-Kawczynski\Intro\SlumpaApp\MainWindow.xaml
+----------------------------------------
+09:57:17 Document switched to: c:\Users\kristian.kawczynski\github-classroom\prog1-wpf-TE23E-Kristian-Kawczynski\Intro\SlumpaApp\MainWindow.xaml.cs
+----------------------------------------
+09:57:18 Document switched to: c:\Users\kristian.kawczynski\github-classroom\prog1-wpf-TE23E-Kristian-Kawczynski\Intro\SlumpaApp\MainWindow.xaml.cs
+----------------------------------------
+09:57:20 Document switched to: c:\Users\kristian.kawczynski\github-classroom\prog1-wpf-TE23E-Kristian-Kawczynski\Intro\SlumpaApp\MainWindow.xaml.cs
+----------------------------------------
+09:57:22 Document switched to: c:\Users\kristian.kawczynski\github-classroom\prog1-wpf-TE23E-Kristian-Kawczynski\Intro\SlumpaApp\MainWindow.xaml
+----------------------------------------
+09:58:17 Document switched to: c:\Users\kristian.kawczynski\github-classroom\prog1-wpf-TE23E-Kristian-Kawczynski\Intro\SlumpaApp\MainWindow.xaml.cs
+----------------------------------------
+09:58:49 Document switched to: c:\Users\kristian.kawczynski\github-classroom\prog1-wpf-TE23E-Kristian-Kawczynski\Intro\SlumpaApp\MainWindow.xaml
+----------------------------------------
+09:58:56 Document switched to: c:\Users\kristian.kawczynski\github-classroom\prog1-wpf-TE23E-Kristian-Kawczynski\Intro\SlumpaApp\MainWindow.xaml.cs
+----------------------------------------
+09:58:59 Document switched to: c:\Users\kristian.kawczynski\github-classroom\prog1-wpf-TE23E-Kristian-Kawczynski\Intro\SlumpaApp\MainWindow.xaml
+----------------------------------------
+
+09:58:59 023:000 > u
+09:58:59 023:001 > us
+09:58:59 023:002 > use
+09:59:00 023:003 > user

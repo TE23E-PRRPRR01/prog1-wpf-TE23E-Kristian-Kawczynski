@@ -1,0 +1,14 @@
+25-04-01 10:02 Session started
+----------------------------------------
+10:02:00 Document switched to: c:\Users\kristian.kawczynski\github-classroom\prog1-wpf-TE23E-Kristian-Kawczynski\Intro\SlumpaApp\MainWindow.xaml
+----------------------------------------
+10:02:13 Document switched to: c:\Users\kristian.kawczynski\github-classroom\prog1-wpf-TE23E-Kristian-Kawczynski\Intro\SlumpaApp\MainWindow.xaml
+----------------------------------------
+10:06:15 Document switched to: c:\Users\kristian.kawczynski\github-classroom\prog1-wpf-TE23E-Kristian-Kawczynski\Intro\SlumpaApp\MainWindow.xaml.cs
+----------------------------------------
+10:07:32 Document switched to: c:\Users\kristian.kawczynski\github-classroom\prog1-wpf-TE23E-Kristian-Kawczynski\Intro\SlumpaApp\MainWindow.xaml
+----------------------------------------
+
+10:07:33 024:019 > t
+10:07:33 024:020 > tx
+10:07:34 024:021 > txb

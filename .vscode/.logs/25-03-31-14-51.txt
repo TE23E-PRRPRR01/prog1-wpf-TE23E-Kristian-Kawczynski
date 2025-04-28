@@ -1,0 +1,24 @@
+25-03-31 14:51 Session started
+----------------------------------------
+14:51:09 Document switched to: c:\Users\kristian.kawczynski\github-classroom\prog1-wpf-TE23E-Kristian-Kawczynski\Intro\Areaapp\MainWindow.xaml
+----------------------------------------
+14:51:10 Document switched to: c:\Users\kristian.kawczynski\github-classroom\prog1-wpf-TE23E-Kristian-Kawczynski\Intro\Areaapp\AssemblyInfo.cs
+----------------------------------------
+14:51:11 Document switched to: c:\Users\kristian.kawczynski\github-classroom\prog1-wpf-TE23E-Kristian-Kawczynski\Intro\Areaapp\MainWindow.xaml
+----------------------------------------
+14:51:11 Document switched to: c:\Users\kristian.kawczynski\github-classroom\prog1-wpf-TE23E-Kristian-Kawczynski\Intro\Areaapp\MainWindow.xaml.cs
+----------------------------------------
+14:51:22 Document switched to: c:\Users\kristian.kawczynski\github-classroom\prog1-wpf-TE23E-Kristian-Kawczynski\Intro\1\MainWindow.xaml.cs
+----------------------------------------
+14:51:23 Document switched to: c:\Users\kristian.kawczynski\github-classroom\prog1-wpf-TE23E-Kristian-Kawczynski\Intro\1\MainWindow.xaml
+----------------------------------------
+14:51:24 Document switched to: c:\Users\kristian.kawczynski\github-classroom\prog1-wpf-TE23E-Kristian-Kawczynski\Intro\1\MainWindow.xaml.cs
+----------------------------------------
+14:52:13 Document switched to: c:\Users\kristian.kawczynski\github-classroom\prog1-wpf-TE23E-Kristian-Kawczynski\Intro\Areaapp\MainWindow.xaml.cs
+----------------------------------------
+14:52:29 Document switched to: c:\Users\kristian.kawczynski\github-classroom\prog1-wpf-TE23E-Kristian-Kawczynski\Intro\AritmetikApp\MainWindow.xaml.cs
+----------------------------------------
+14:52:31 Document switched to: c:\Users\kristian.kawczynski\github-classroom\prog1-wpf-TE23E-Kristian-Kawczynski\Intro\AritmetikApp\MainWindow.xaml
+----------------------------------------
+14:52:35 Document switched to: c:\Users\kristian.kawczynski\github-classroom\prog1-wpf-TE23E-Kristian-Kawczynski\Intro\Chatai\MainWindow.xaml.cs
+----------------------------------------
