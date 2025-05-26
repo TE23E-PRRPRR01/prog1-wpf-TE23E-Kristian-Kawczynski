@@ -1,0 +1,4 @@
+12:56:54 Document switched to: c:\Users\kristian.kawczynski\github-classroom\prog1-wpf-TE23E-Kristian-Kawczynski\Intro\Areaapp\MainWindow.xaml.cs
+----------------------------------------
+25-05-07 12:56 Session started
+----------------------------------------
